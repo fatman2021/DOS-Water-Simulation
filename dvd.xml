@@ -1,0 +1,14 @@
+<dvdauthor>
+    <vmgm />
+    <titleset>
+        <titles>
+            <subpicture lang="en" />
+            <subpicture lang="pt" />
+            <audio lang="en" />
+            <audio lang="pt" />
+            <pgc>
+                <vob file="output.mpg" />
+            </pgc>
+        </titles>
+    </titleset>
+</dvdauthor>
